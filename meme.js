@@ -393,6 +393,17 @@ const images = [
   "361.png",
   "362.png",
   "363.png",
+  "364.jpeg",
+  "365.jpeg",
+  "366.jpeg",
+  "367.jpeg",
+  "368.jpeg",
+  "369.jpeg",
+  "370.jpeg",
+  "371.jpeg",
+  "372.jpeg",
+  "373.jpeg",
+  "374.jpeg",
 
 
   // Add more image file names
